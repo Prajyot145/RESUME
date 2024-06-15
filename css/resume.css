@@ -1,0 +1,23 @@
+body{
+     background-color: lightyellow;
+     color: #000;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     text-transform: capitalize;
+}
+#cv-template{
+    display: none;
+}
+.myimg{
+    width: 33%;
+    height: 15%;
+    border-radius: 50%;
+}
+
+
+.background{
+    background-color: powderblue;
+}
+
+button{
+    margin-bottom: 10px;
+}
